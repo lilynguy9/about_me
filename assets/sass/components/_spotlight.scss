@@ -85,7 +85,7 @@
 	@mixin color-spotlight($p: null) {
 		.spotlight {
 			.image {
-				border-color: _palette($p, border);
+				border-color: #1e3f66; /* deep ocean blue */;
 			}
 		}
 	}
